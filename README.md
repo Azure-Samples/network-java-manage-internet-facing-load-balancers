@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network,load-balancer
-- platforms: java
+description: "Getting Started with Network - Manage Internet Facing Load Balancer - in Java"
+urlFragment: network-java-manage-internet-facing-load-balancers
 ---
 
 # Getting Started with Network - Manage Internet Facing Load Balancer - in Java #
